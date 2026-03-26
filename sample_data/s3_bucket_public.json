@@ -1,0 +1,8 @@
+{
+  "resource_type": "s3_bucket",
+  "resource_id": "s3-prod-data",
+  "public_access": true,
+  "encryption_enabled": false,
+  "versioning_enabled": false,
+  "access_logging_enabled": false
+}

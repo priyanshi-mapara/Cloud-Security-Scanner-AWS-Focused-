@@ -1,0 +1,6 @@
+{
+  "resource_type": "iam_user",
+  "resource_id": "alice",
+  "mfa_enabled": false,
+  "access_key_age_days": 140
+}

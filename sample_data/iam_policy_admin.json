@@ -1,0 +1,11 @@
+{
+  "resource_type": "iam_policy",
+  "resource_id": "AdminLikePolicy",
+  "statements": [
+    {
+      "effect": "Allow",
+      "actions": ["*"],
+      "resources": ["*"]
+    }
+  ]
+}

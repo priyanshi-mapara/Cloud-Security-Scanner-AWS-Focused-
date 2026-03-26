@@ -1,0 +1,8 @@
+{
+  "resource_type": "s3_bucket",
+  "resource_id": "s3-secure-logs",
+  "public_access": false,
+  "encryption_enabled": true,
+  "versioning_enabled": true,
+  "access_logging_enabled": true
+}
