@@ -1,4 +1,4 @@
-# cloud-security-scanner
+# Cloud Security Scanner
 
 A production-style AWS security assessment service built for security engineering workflows. It ingests mocked AWS configuration JSON documents, evaluates them against opinionated misconfiguration rules, and exposes findings through both API and CLI interfaces.
 
