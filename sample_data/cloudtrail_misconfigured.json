@@ -1,0 +1,7 @@
+{
+  "resource_type": "cloudtrail",
+  "resource_id": "org-trail",
+  "enabled": true,
+  "is_multi_region": false,
+  "log_file_validation_enabled": false
+}
